@@ -1,1 +1,3 @@
-The new and improved repository for our CGT engine and game, Pizza Man! (this one should be pullable). 
+##Pizza Man
+
+Project completed over 3rd year for the games technology project.
