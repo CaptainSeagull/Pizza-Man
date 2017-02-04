@@ -1,0 +1,56 @@
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\Engine\LevelEditor\bin\Debug\LevelEditor.exe.config
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\Engine\LevelEditor\bin\Debug\LevelEditor.exe
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\Engine\LevelEditor\bin\Debug\LevelEditor.pdb
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\Engine\LevelEditor\obj\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\Engine\LevelEditor\obj\Debug\LevelEditor.Properties.Resources.resources
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\Engine\LevelEditor\obj\Debug\LevelEditor.csproj.GenerateResource.Cache
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\Engine\LevelEditor\obj\Debug\LevelEditor.exe
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\Engine\LevelEditor\obj\Debug\LevelEditor.pdb
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\Engine\LevelEditor\obj\Debug\LevelEditor.BuildingControl.resources
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\Engine\LevelEditor\obj\Debug\LevelEditor.EditorWindow.resources
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\Engine\LevelEditor\obj\Debug\LevelEditor.NewBuildingPopup.resources
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\LevelEditor\bin\Debug\LevelEditor.exe.config
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\LevelEditor\bin\Debug\LevelEditor.exe
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\LevelEditor\bin\Debug\LevelEditor.pdb
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\LevelEditor\obj\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\LevelEditor\obj\Debug\LevelEditor.BuildingControl.resources
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\LevelEditor\obj\Debug\LevelEditor.EditorWindow.resources
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\LevelEditor\obj\Debug\LevelEditor.NewBuildingPopup.resources
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\LevelEditor\obj\Debug\LevelEditor.Properties.Resources.resources
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\LevelEditor\obj\Debug\LevelEditor.csproj.GenerateResource.Cache
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\LevelEditor\obj\Debug\LevelEditor.exe
+C:\Users\R2D2\Documents\Uni Stuff\Year 3\CGT Project\Pizza Man\LevelEditor\obj\Debug\LevelEditor.pdb
+C:\Users\User\Desktop\pizza-man\LevelEditor\bin\Debug\LevelEditor.exe.config
+C:\Users\User\Desktop\pizza-man\LevelEditor\bin\Debug\LevelEditor.exe
+C:\Users\User\Desktop\pizza-man\LevelEditor\bin\Debug\LevelEditor.pdb
+C:\Users\User\Desktop\pizza-man\LevelEditor\obj\Debug\LevelEditor.BuildingControl.resources
+C:\Users\User\Desktop\pizza-man\LevelEditor\obj\Debug\LevelEditor.EditorWindow.resources
+C:\Users\User\Desktop\pizza-man\LevelEditor\obj\Debug\LevelEditor.NewBuildingPopup.resources
+C:\Users\User\Desktop\pizza-man\LevelEditor\obj\Debug\LevelEditor.Properties.Resources.resources
+C:\Users\User\Desktop\pizza-man\LevelEditor\obj\Debug\LevelEditor.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\pizza-man\LevelEditor\obj\Debug\LevelEditor.exe
+C:\Users\User\Desktop\pizza-man\LevelEditor\obj\Debug\LevelEditor.pdb
+C:\Users\B00241075\Desktop\Pizza Man\Engine\LevelEditor\bin\Debug\LevelEditor.exe.config
+C:\Users\B00241075\Desktop\Pizza Man\Engine\LevelEditor\bin\Debug\LevelEditor.exe
+C:\Users\B00241075\Desktop\Pizza Man\Engine\LevelEditor\bin\Debug\LevelEditor.pdb
+C:\Users\B00241075\Desktop\Pizza Man\Engine\LevelEditor\obj\Debug\LevelEditor.BuildingControl.resources
+C:\Users\B00241075\Desktop\Pizza Man\Engine\LevelEditor\obj\Debug\LevelEditor.EditorWindow.resources
+C:\Users\B00241075\Desktop\Pizza Man\Engine\LevelEditor\obj\Debug\LevelEditor.NewBuildingPopup.resources
+C:\Users\B00241075\Desktop\Pizza Man\Engine\LevelEditor\obj\Debug\LevelEditor.Properties.Resources.resources
+C:\Users\B00241075\Desktop\Pizza Man\Engine\LevelEditor\obj\Debug\LevelEditor.csproj.GenerateResource.Cache
+C:\Users\B00241075\Desktop\Pizza Man\Engine\LevelEditor\obj\Debug\LevelEditor.exe
+C:\Users\B00241075\Desktop\Pizza Man\Engine\LevelEditor\obj\Debug\LevelEditor.pdb
+<<<<<<< HEAD
+C:\Users\b00236297\Desktop\pizza-man\LevelEditor\bin\Debug\LevelEditor.exe.config
+C:\Users\b00236297\Desktop\pizza-man\LevelEditor\bin\Debug\LevelEditor.exe
+C:\Users\b00236297\Desktop\pizza-man\LevelEditor\bin\Debug\LevelEditor.pdb
+C:\Users\b00236297\Desktop\pizza-man\LevelEditor\obj\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\b00236297\Desktop\pizza-man\LevelEditor\obj\Debug\LevelEditor.BuildingControl.resources
+C:\Users\b00236297\Desktop\pizza-man\LevelEditor\obj\Debug\LevelEditor.EditorWindow.resources
+C:\Users\b00236297\Desktop\pizza-man\LevelEditor\obj\Debug\LevelEditor.NewBuildingPopup.resources
+C:\Users\b00236297\Desktop\pizza-man\LevelEditor\obj\Debug\LevelEditor.Properties.Resources.resources
+C:\Users\b00236297\Desktop\pizza-man\LevelEditor\obj\Debug\LevelEditor.csproj.GenerateResource.Cache
+C:\Users\b00236297\Desktop\pizza-man\LevelEditor\obj\Debug\LevelEditor.exe
+C:\Users\b00236297\Desktop\pizza-man\LevelEditor\obj\Debug\LevelEditor.pdb
+=======
+>>>>>>> cbe1e07162f27c91ab0114666ac4a0c66f9970a6

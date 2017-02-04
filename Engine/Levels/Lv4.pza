@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Level>
+  <Models
+    Count="2">
+    <BuildingModel
+      Name="Models\Buildings\Building1.FBX"
+      Path="Models\Buildings\Building1.FBX">
+      <Position
+        x="-5.353714"
+        y="-499.9105"
+        z="1.147202" />
+      <Scale
+        x="400"
+        y="1000.51"
+        z="400" />
+    </BuildingModel>
+    <BuildingModel
+      Name="Building2"
+      Path="Models\Buildings\Building1.FBX">
+      <Position
+        x="-5.353714"
+        y="-499.9105"
+        z="1.147202" />
+      <Scale
+        x="500"
+        y="1000.51"
+        z="500" />
+    </BuildingModel>
+  </Models>
+  <Objects
+    Count="40">
+    <Building
+      Name="Building2"
+      StartBuilding="true"
+      EndBuilding="false">
+      <Position
+        x="-412.758"
+        y="0"
+        z="-249.6329" />
+      <Scale
+        x="487.8049"
+        y="1000.51"
+        z="487.8049" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-825.5159"
+        y="30"
+        z="-279.0015" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-1238.274"
+        y="60"
+        z="-279.0015" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-1651.032"
+        y="90"
+        z="-279.0015" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-2476.548"
+        y="150"
+        z="-279.0015" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-2063.79"
+        y="120"
+        z="-279.0015" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-2964.353"
+        y="210"
+        z="2276.065" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-2964.353"
+        y="270"
+        z="3656.388" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-2964.353"
+        y="240"
+        z="2951.542" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Building2"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-3001.876"
+        y="180"
+        z="837.0044" />
+      <Scale
+        x="487.8049"
+        y="1000.51"
+        z="487.8049" />
+    </Building>
+    <Building
+      Name="Building2"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-2983.115"
+        y="150"
+        z="44.05286" />
+      <Scale
+        x="487.8049"
+        y="1000.51"
+        z="487.8049" />
+    </Building>
+    <Building
+      Name="Building2"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-3001.876"
+        y="210"
+        z="1629.956" />
+      <Scale
+        x="487.8049"
+        y="1000.51"
+        z="487.8049" />
+    </Building>
+    <Building
+      Name="Building2"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-2532.833"
+        y="270"
+        z="3744.493" />
+      <Scale
+        x="487.8049"
+        y="1000.51"
+        z="487.8049" />
+    </Building>
+    <Building
+      Name="Building2"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-956.848"
+        y="360"
+        z="3744.493" />
+      <Scale
+        x="487.8049"
+        y="1000.51"
+        z="487.8049" />
+    </Building>
+    <Building
+      Name="Building2"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-1482.176"
+        y="330"
+        z="3773.862" />
+      <Scale
+        x="487.8049"
+        y="1000.51"
+        z="487.8049" />
+    </Building>
+    <Building
+      Name="Building2"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-431.5197"
+        y="390"
+        z="3744.493" />
+      <Scale
+        x="487.8049"
+        y="1000.51"
+        z="487.8049" />
+    </Building>
+    <Building
+      Name="Building2"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-2007.505"
+        y="300"
+        z="3744.493" />
+      <Scale
+        x="487.8049"
+        y="1000.51"
+        z="487.8049" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="93.80863"
+        y="420"
+        z="2393.539" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="93.80863"
+        y="390"
+        z="3039.647" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="93.80863"
+        y="360"
+        z="3685.756" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Building2"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="75.04691"
+        y="450"
+        z="1747.43" />
+      <Scale
+        x="487.8049"
+        y="1000.51"
+        z="487.8049" />
+    </Building>
+    <Building
+      Name="Building2"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="75.04691"
+        y="420"
+        z="925.1101" />
+      <Scale
+        x="487.8049"
+        y="1000.51"
+        z="487.8049" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-356.4728"
+        y="400"
+        z="866.373" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-787.9925"
+        y="370"
+        z="866.373" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-1219.512"
+        y="400"
+        z="866.373" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-1669.794"
+        y="430"
+        z="866.373" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-2101.313"
+        y="460"
+        z="866.373" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-2288.931"
+        y="520"
+        z="2158.59" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-2270.169"
+        y="490"
+        z="1512.482" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-1857.411"
+        y="550"
+        z="2540.382" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-1425.891"
+        y="580"
+        z="2569.75" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-994.3715"
+        y="610"
+        z="2569.75" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-562.8518"
+        y="560"
+        z="2452.276" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-750.4691"
+        y="610"
+        z="1776.799" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-1200.75"
+        y="660"
+        z="1747.43" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="true">
+      <Position
+        x="-1651.032"
+        y="700"
+        z="1747.43" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+    <Building
+      Name="Building2"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-2795.497"
+        y="340"
+        z="4684.288" />
+      <Scale
+        x="487.8049"
+        y="1000.51"
+        z="487.8049" />
+    </Building>
+    <Building
+      Name="Building2"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-2007.505"
+        y="270"
+        z="4684.288" />
+      <Scale
+        x="487.8049"
+        y="1000.51"
+        z="487.8049" />
+    </Building>
+    <Building
+      Name="Building2"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-1069.418"
+        y="400"
+        z="4684.288" />
+      <Scale
+        x="487.8049"
+        y="1000.51"
+        z="487.8049" />
+    </Building>
+    <Building
+      Name="Models\Buildings\Building1.FBX"
+      StartBuilding="false"
+      EndBuilding="false">
+      <Position
+        x="-225.1407"
+        y="370"
+        z="4566.813" />
+      <Scale
+        x="393.9962"
+        y="1000.51"
+        z="393.9962" />
+    </Building>
+  </Objects>
+</Level>

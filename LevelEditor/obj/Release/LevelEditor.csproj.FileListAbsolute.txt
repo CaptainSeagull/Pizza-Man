@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\pizza-man\LevelEditor\bin\Release\LevelEditor.exe.config
+C:\Users\User\Desktop\pizza-man\LevelEditor\bin\Release\LevelEditor.exe
+C:\Users\User\Desktop\pizza-man\LevelEditor\bin\Release\LevelEditor.pdb
+C:\Users\User\Desktop\pizza-man\LevelEditor\obj\Release\LevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\pizza-man\LevelEditor\obj\Release\LevelEditor.BuildingControl.resources
+C:\Users\User\Desktop\pizza-man\LevelEditor\obj\Release\LevelEditor.EditorWindow.resources
+C:\Users\User\Desktop\pizza-man\LevelEditor\obj\Release\LevelEditor.NewBuildingPopup.resources
+C:\Users\User\Desktop\pizza-man\LevelEditor\obj\Release\LevelEditor.Properties.Resources.resources
+C:\Users\User\Desktop\pizza-man\LevelEditor\obj\Release\LevelEditor.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\pizza-man\LevelEditor\obj\Release\LevelEditor.exe
+C:\Users\User\Desktop\pizza-man\LevelEditor\obj\Release\LevelEditor.pdb

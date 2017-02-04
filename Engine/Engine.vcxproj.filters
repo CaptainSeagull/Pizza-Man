@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Input.cpp" />
+    <ClCompile Include="win32.cpp" />
+    <ClCompile Include="AmbientLight.cpp" />
+    <ClCompile Include="Light.cpp" />
+    <ClCompile Include="LightManager.cpp" />
+    <ClCompile Include="Material.cpp" />
+    <ClCompile Include="Pointlight.cpp" />
+    <ClCompile Include="UniformBufferObject.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="Input.h" />
+    <ClInclude Include="OpenGLHelper.h" />
+    <ClInclude Include="AmbientLight.h" />
+    <ClInclude Include="Light.h" />
+    <ClInclude Include="LightManager.h" />
+    <ClInclude Include="Material.h" />
+    <ClInclude Include="Pointlight.h" />
+    <ClInclude Include="UniformBufferObject.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{ed57ee25-edd7-4eaa-901e-88fb5b04a10c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shaders\hud.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\hud.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\skyboxCubemap.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\skyboxCubemap.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\Wireframe.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\Wireframe.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\arrow.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\arrow.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\TextureAndFog.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\TextureAndFog.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\Texture.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\Texture.vert">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>
